@@ -13,3 +13,32 @@ h1 { color: #2a6f97; }
   padding: 12px 16px;
   margin-bottom: 16px;
 }
+
+html {
+  background: linear-gradient(135deg, #fde8e4, #f8d5cc, #f3e3d3);
+  background-attachment: fixed;
+}
+
+body {
+  font-family: Georgia, serif;
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 24px;
+  line-height: 1.6;
+  color: #4a3b3b;
+  background: rgba(255, 255, 255, 0.85);
+  border-radius: 16px;
+  box-shadow: 0 4px 20px rgba(120, 70, 70, 0.15);
+}
+
+h1 { color: #9d4a5b; }
+h2 { color: #b5654f; border-bottom: 2px solid #f3d5cc; padding-bottom: 4px; }
+a { color: #9d4a5b; }
+
+.project {
+  border: 1px solid #f0c9c0;
+  border-radius: 8px;
+  padding: 12px 16px;
+  margin-bottom: 16px;
+  background: #fffaf8;
+}
